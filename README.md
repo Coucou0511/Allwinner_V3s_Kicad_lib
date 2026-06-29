@@ -1,0 +1,1 @@
+# Allwinner_V3s_Kicad_lib
